@@ -1,0 +1,52 @@
+links:
+  - class_name: 在线编译工具
+    descr: 无需安装，在网页上运行的编译工具
+    link_list:
+      - name: Judge0 IDE
+        avatar: https://www.jyshare.com/wp-content/uploads/2022/04/judge-logo.jpg
+        descr: 在线的编译工具，可以编译各种语言。
+        link: https://ide.judge0.com/
+      - name: ideone.com
+        avatar: https://www.jyshare.com/wp-content/uploads/2022/03/g7o8ow0dockrtsdxym8m.webp
+        descr: 风格较老，与上面的比差不了多少。
+        link: https://ideone.com/
+      - name: Codepen
+        avatar: https://www.jyshare.com/wp-content/uploads/2022/03/codepen-512.png
+        descr: 一个前端代码的运行工具。
+        link: https://codepen.io/
+      - name: SQL Online IDE
+        avatar: https://www.jyshare.com/wp-content/uploads/2022/07/315102_sql_file_icon.png
+        descr: SQL代码在线执行工具。
+        link: https://sqliteonline.com/
+
+  - class_name: 代码学习网站
+    descr: 一些语言的教程都在里面
+    link_list:
+      - name: 菜鸟教程
+        avatar: https://images.win-horror.eu.org/file/754be803adb66e3fdc38e.png
+        descr: 著名的代码教程网站
+        link: https://runoob.com/
+      - name: W3School
+        avatar: https://www.jyshare.com/wp-content/uploads/2022/03/w3-logo.png
+        descr: 另一个代码教程。
+        link: https://www.w3school.com.cn/
+
+  - class_name: 博客/论坛
+    descr: 好东西和干货一大堆
+    link_list:
+      - name: Stack Overflow
+        avatar: https://www.jyshare.com/wp-content/uploads/2022/03/14-e1647306997102.png
+        descr: 著名代码论坛。
+        link: https://stackoverflow.com/
+      - name: 博客园
+        avatar: https://www.jyshare.com/wp-content/uploads/2022/03/cnblogs-logo.png
+        descr: 很老的博客。
+        link: https://www.cnblogs.com/
+      - name: CSDN
+        avatar: hhttps://www.jyshare.com/wp-content/uploads/2022/03/csdn-logo.jpeg
+        descr: 论坛兼博客。
+        link: https://www.csdn.net/
+      - name: 开源中国
+        avatar: https://www.jyshare.com/wp-content/uploads/2022/03/%E5%BC%80%E6%BA%90%E4%B8%AD%E5%9B%BD.jpg
+        descr: 中国开源技术交流社区
+        link: https://www.oschina.net/

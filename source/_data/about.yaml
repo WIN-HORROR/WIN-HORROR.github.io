@@ -1,0 +1,69 @@
+authorinfo:
+  leftTags:
+    - '🤖️ 数码科技爱好者'
+  rightTags:
+    - '明天再说拖延派 🦽'
+  image: 'https://images.win-horror.eu.org/file/0142c9bc1f1c2cffe9c04.png'
+
+title: 关于本站
+
+contentinfo: # 顶部个人信息展示
+  sup: 你好，很高兴认识你👋
+  name: 我叫WIN-HORROR # 名称
+  title: 是一名学生、数码科技爱好者 # 介绍
+  tip: 追求
+  slogan: 源于<br>热爱
+
+skills: # 根据需求添加
+  title: 技能
+  subtitle: 开启创造力
+  tags:
+    - title: HTML
+      icon: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/HTML.png
+      color: '#e9572b'
+    - title: Javascript
+      icon: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/JS.png
+      color: '#f7cb4f'
+    - title: Git
+      icon: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/git.png
+      color: '#df5b40'
+    - title: Docker
+      icon: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/webpack.png
+      color: '#57b6e6'
+    - title: Visual Studio
+      icon: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/vs-logo.svg
+      color: '#ffffff'
+
+oneself: # 按需填写
+  location: '中国，广东省' # 所在位置
+  birthYear: '2013' # 生日
+
+#自定义
+cause:
+  tip: 心路历程
+  title: 为什么建站？
+  content:
+    <br>当然是因为神烦老狗，以前用它的教程建了个Notion的站点，后来崩了，就转回hexo了(～￣▽￣)～
+
+award:
+  enable: false
+  description: 感谢赞赏的人，因为你们，让我感受到写博客这件事情能够给你们创造了价值。这会让我在这条路上走得更远。
+  tips: 总金额：¥ {sum}，将全部用于博客的维护和更新。 # 必须带 {sum}，否则无法显示总金额
+rewardList: # 底部捐赠
+  - name: 悦华
+    money: 5
+    time: 2023-04-20
+  - name: 糕小菜
+    money: 6.66
+    time: 2023-08-11
+    vip: true
+  - name: 幕幕
+    money: 5
+    time: 2023-08-11
+  - name: 悦华
+    money: 56
+    vip: true
+    time: 2023-08-25
+  - name: 糕小菜
+    money: 3.33
+    time: 2023-12-24
